@@ -1,0 +1,3 @@
+get::http://account.xici.net/valid/sendcodephone/phone_number::::http://passport.hupu.com/register
+post::http://passport.hupu.com/index.php?m=mobile&a=getAuthCodeAjax::mobile=phone_number::http://passport.hupu.com/register
+post::http://i.qichetong.com/Ajax/Authenservice/MobileVerifyCode.ashx::popType=0&r=0.0007466450239014&LoginName=15890300532::http://i.qichetong.com/Ajax/Authenservice/MobileVerifyCode.ashx

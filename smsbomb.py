@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 #coding:utf-8
+__author__ = 'mtfly'
 
 import requests
 import sys
